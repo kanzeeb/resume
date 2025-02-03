@@ -54,7 +54,7 @@ export default function TechSkills() {
                     <p>SQL</p>
                 </div>
                 <div className="item-skill-m">
-                    <h2 className="underline-effect"> {'<'} 2 years </h2>
+                    <h2 className="underline-effect"> 2 years </h2>
                 </div>
                 <div className="item-skill-i">
                     <Java />
