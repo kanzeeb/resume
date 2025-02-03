@@ -32,7 +32,7 @@ export default function TechSkills() {
                 </div>
                 <div className="item-skill-d">
                     <ReactJs />
-                    <p>React</p>
+                    <p>ReactJS</p>
                 </div>
                 <div className="item-skill-e">
                     <NodeJs />
@@ -65,7 +65,7 @@ export default function TechSkills() {
                     <p>AWS Cloud</p>
                 </div>
                 <div className="item-skill-n">
-                    <h2 className="underline-effect"> fundamentals </h2>
+                    <h2 className="underline-effect"> Fundamentals </h2>
                 </div>
             </div>
             <div><Experience /></div>
